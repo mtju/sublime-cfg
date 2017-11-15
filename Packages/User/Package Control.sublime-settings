@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"CMake",
 		"Git",
 		"Javascript Beautify",
@@ -13,6 +14,7 @@
 		"Package Control",
 		"PowerShell",
 		"URLEncode",
+		"Text Pastry",
 		"VCS Gutter"
 	]
 }
