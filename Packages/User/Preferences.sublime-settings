@@ -11,5 +11,10 @@
 		"Vintage"
 	],
 	"overlay_scroll_bars": "enabled",
+	"shift_tab_unindent": true,
+	"fallback_encoding": "Baltic (Windows 1257)",
+	"show_encoding": true,
+	"show_line_endings": true,
+	"show_tab_close_buttons": false,
 	"translate_tabs_to_spaces": true
 }
