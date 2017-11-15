@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CMake",
+		"Git",
+		"Javascript Beautify",
+		"Jinja2",
+		"JSON Reindent",
+		"Package Control",
+		"PowerShell",
+		"URLEncode",
+		"VCS Gutter"
+	]
+}
