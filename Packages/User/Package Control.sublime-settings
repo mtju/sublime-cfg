@@ -5,16 +5,21 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"All Autocomplete",
+		"BracketHighlighter",
 		"CMake",
-		"SublimeGit",
+		"GitGutter",
+		"Highlight",
 		"Javascript Beautify",
 		"Jinja2",
 		"JSON Reindent",
 		"Package Control",
 		"PowerShell",
-		"URLEncode",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeGit",
 		"Text Pastry",
-		"VCS Gutter"
+		"URLEncode"
 	]
 }
